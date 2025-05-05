@@ -22,7 +22,7 @@
         </p>
         <h2 class="section-title">Objetivo Profissional</h2>
         <p>
-            Busco uma oportunidade como <span class="highlight">Aprendiz de Manufatura Avançada</span>, onde possa aplicar meus conhecimentos em manutenção elétrica, automação industrial e programação. Quero me desenvolver com a orientação de uma equipe experiente e crescer dentro de uma empresa que valoriza inovação e aprendizado contínuo.
+            Busco uma oportunidade como <span class="highlight">APRENDIZ DE ANÁLISE DE DADOS</span>, onde possa aplicar meus conhecimentos em manutenção elétrica, automação industrial e programação. Quero me desenvolver com a orientação de uma equipe experiente e crescer dentro de uma empresa que valoriza inovação e aprendizado contínuo.
         </p>
         <h2 class="section-title">Experiências</h2>
         <div class="experience-item">
